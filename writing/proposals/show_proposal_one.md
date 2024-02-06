@@ -18,13 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Anna Hill
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
-
+"I adhered to the Alleghent College Honor Code while completing this project."
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -42,17 +40,17 @@ TODO: Provide all of the required details for your podcast episode.
 TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: Economics
+- **Host**: Anna Hill
+- **Guest**: Professor Ormiston
 
 ## 📝 Show Objectives
 
 TODO: Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**: Highlight the importance of studying economics in today's world.
+- **Objective Two**: Explore the various career opportunities available through majoring in economics.
+- **Objective Three**: Discuss the skills and knowledge gained through an economics degree and how they ar aplicable across many platforms and industries.
 
 ## 📚 Sample Questions
 
@@ -62,11 +60,11 @@ ask the guest.
 TODO: Provide a justification for why asking this question will achieve one of
 the stated objectives for the podcast episode.
 
-- **Question One**:
-- **Question Two**:
+- **Question One**: What are some key concepts in economics that are relevant to everyday life?
+- **Question Two**: Can you discuss the range of jobs available to an individual with an Economics degree?
 - **Question Three**:
 
-- **Justification for Question One**:
+- **Justification for Question One**: This will help achieve Objective one by illustrating the practical applications of economics in daily life, making it more relatable and highlighting its relevance.
 - **Justification for Question Two**:
 - **Justification for Question Three**:
 
