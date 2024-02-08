@@ -30,8 +30,7 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+Explore the vast opportunities awaiting economics majors as we uncover the revelancs, career prospects, and invaluable skils acquired through studying economics in today's dynamic world.
 
 ## 🔬 Show Details
 
@@ -62,23 +61,22 @@ the stated objectives for the podcast episode.
 
 - **Question One**: What are some key concepts in economics that are relevant to everyday life?
 - **Question Two**: Can you discuss the range of jobs available to an individual with an Economics degree?
-- **Question Three**:
+- **Question Three**: How does studying Economics prepare students for critical thinking and problem-solving in their careers?
 
 - **Justification for Question One**: This will help achieve Objective one by illustrating the practical applications of economics in daily life, making it more relatable and highlighting its relevance.
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question Two**: This directly addresses Objective two by providing insight into the diverse career paths available to economics majors.
+- **Justification for Question Three**: This ties into Objective three by emphasizing the transferable skills gained from studying economics, which can be applied across various professional fields.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+In this episode we delve into the world of economics and why it's a compelling field of study for anyone looking to understand the intricacies of decision-making, resource allocation, and the functioning of markets. Our guest expert will shed a light on the importance of economics inshaping policies, influencing businesses, and guiding individual choices. We'll explore the myriad of career opportunities available to economics graduates, ranging from finance and consulting to public policy and data analysis. Moreover, we'll discuss how studying economics equips students with critical thinking skills, analytical prowess, and a deep understanding of human behavior, making them valuable assets in any professional setting.
 
 
 ## 📢 Call to Action
 
 TODO: After a person listens to this episode what do you want them to do?
 
-TODO: Write at least two sentences that explain the call to action for this episode.
+After listening to this episode, I encourage you to consider the benefits of majoring in economics and explore the diverse career paths it offers. Whether you're passionate about finance, policy-making, or data analysis, an economics degree can provide you with the tools and knowledge needed to excel in your chosen field.
 
 ## 🦜 References
 
@@ -88,9 +86,9 @@ conference proceedings that you studied when preparing this proposal.
 TODO: Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
+- **Reference One**: https://www.depts.ttu.edu/economics/whyshouldimajorineconomics.php#:~:text=Studying%20economics%20provides%20you%20with,just%20to%20name%20a%20few.
+- **Reference Two**: https://www.aeaweb.org/resources/students/careers
+- **Reference Three**: https://www.stlouisfed.org/open-vault/2022/may/skills-people-with-econ-degrees
 
 TODO: If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
