@@ -18,7 +18,7 @@
 
 <!---toc end-->
 
-## Anna Hill
+## Anna M. Hill
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
@@ -35,7 +35,7 @@ Explore the vast opportunities awaiting economics majors as we uncover the relev
 ## 🔬 Show Details
 
 - **Title**: Economics
-- **Host**: Anna Hill
+- **Host**: Anna M. Hill
 - **Guest**: Professor Ormiston
 
 ## 📝 Show Objectives
