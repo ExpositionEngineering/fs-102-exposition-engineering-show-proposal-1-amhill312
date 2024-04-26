@@ -34,30 +34,17 @@ Explore the vast opportunities awaiting economics majors as we uncover the revel
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
 - **Title**: Economics
 - **Host**: Anna Hill
 - **Guest**: Professor Ormiston
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
-
 - **Objective One**: Highlight the importance of studying economics in today's world.
 - **Objective Two**: Explore the various career opportunities available through majoring in economics.
 - **Objective Three**: Discuss the skills and knowledge gained through an economics degree and how they ar aplicable across many platforms and industries.
 
 ## 📚 Sample Questions
-
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
-
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
 
 - **Question One**: What are some key concepts in economics that are relevant to everyday life?
 - **Question Two**: Can you discuss the range of jobs available to an individual with an Economics degree?
@@ -74,25 +61,10 @@ In this episode we delve into the world of economics and why it's a compelling f
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
 After listening to this episode, I encourage you to consider the benefits of majoring in economics and explore the diverse career paths it offers. Whether you're passionate about finance, policy-making, or data analysis, an economics degree can provide you with the tools and knowledge needed to excel in your chosen field.
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**: https://www.depts.ttu.edu/economics/whyshouldimajorineconomics.php#:~:text=Studying%20economics%20provides%20you%20with,just%20to%20name%20a%20few.
-- **Reference Two**: https://www.aeaweb.org/resources/students/careers
-- **Reference Three**: https://www.stlouisfed.org/open-vault/2022/may/skills-people-with-econ-degrees
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+- [Studying Economics](https://www.depts.ttu.edu/economics/whyshouldimajorineconomics.php#:~:text=Studying%20economics%20provides%20you%20with,just%20to%20name%20a%20few.)
+- [Economics Careers](https://www.aeaweb.org/resources/students/careers)
+- [Skills for Economics Graduates](https://www.stlouisfed.org/open-vault/2022/may/skills-people-with-econ-degrees)
