@@ -6,7 +6,7 @@
 
 * [Show Proposal One](#show-proposal-one)
   * [✨ Table of Contents](#-table-of-contents)
-  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
+  * [Anna M. Hill](#anna-m-hill)
   * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
   * [🏁 One Sentence Pitch](#-one-sentence-pitch)
   * [🔬 Show Details](#-show-details)
@@ -24,9 +24,7 @@
 
 "I adhered to the Allegheny College Honor Code while completing this project."
 
-**IMPORTANT:** If you do not type the required sentence then the course
-instructor will not know that you adhered to the Allegheny College Honor Code
-while completing the project.
+**IMPORTANT:** If you do not type the required sentence, then the course instructor will not know that you adhered to the Allegheny College Honor Code while completing the project.
 
 ## 🏁 One Sentence Pitch
 
@@ -64,10 +62,6 @@ After listening to this episode, I encourage you to consider the benefits of maj
 
 ## 🦜 References
 
-- Reference[^1]
-- Reference[^2]
-- Reference[^3]
-
-[^1]: ![Studying Economics](https://www.depts.ttu.edu/economics/whyshouldimajorineconomics.php#:~:text=Studying%20economics%20provides%20you%20with,just%20to%20name%20a%20few.)
-[^2]: ![Economics Careers](https://www.aeaweb.org/resources/students/careers)
-[^3]: ![Skills for Economics Graduates](https://www.stlouisfed.org/open-vault/2022/may/skills-people-with-econ-degrees)
+1. [Studying Economics](https://www.depts.ttu.edu/economics/whyshouldimajorineconomics.php)
+2. [Economics Careers](https://www.aeaweb.org/resources/students/careers)
+3. [Skills for Economics Graduates](https://www.stlouisfed.org/open-vault/2022/may/skills-people-with-econ-degrees)
