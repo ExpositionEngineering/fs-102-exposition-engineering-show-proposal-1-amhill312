@@ -64,6 +64,6 @@ After listening to this episode, I encourage you to consider the benefits of maj
 
 ## 🦜 References
 
-- [Studying Economics](https://www.depts.ttu.edu/economics/whyshouldimajorineconomics.php#:~:text=Studying%20economics%20provides%20you%20with,just%20to%20name%20a%20few.)
-- [Economics Careers](https://www.aeaweb.org/resources/students/careers)
-- [Skills for Economics Graduates](https://www.stlouisfed.org/open-vault/2022/may/skills-people-with-econ-degrees)
+1. [Studying Economics](https://www.depts.ttu.edu/economics/whyshouldimajorineconomics.php#:~:text=Studying%20economics%20provides%20you%20with,just%20to%20name%20a%20few.)
+2. [Economics Careers](https://www.aeaweb.org/resources/students/careers)
+3. [Skills for Economics Graduates](https://www.stlouisfed.org/open-vault/2022/may/skills-people-with-econ-degrees)
