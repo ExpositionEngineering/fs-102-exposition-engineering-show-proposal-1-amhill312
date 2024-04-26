@@ -22,7 +22,7 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-"I adhered to the Alleghent College Honor Code while completing this project."
+"I adhered to the Allegheny College Honor Code while completing this project."
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -30,7 +30,7 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-Explore the vast opportunities awaiting economics majors as we uncover the revelancs, career prospects, and invaluable skils acquired through studying economics in today's dynamic world.
+Explore the vast opportunities awaiting economics majors as we uncover the relevance, career prospects, and invaluable skills acquired through studying economics in today's dynamic world.
 
 ## 🔬 Show Details
 
@@ -42,7 +42,7 @@ Explore the vast opportunities awaiting economics majors as we uncover the revel
 
 - **Objective One**: Highlight the importance of studying economics in today's world.
 - **Objective Two**: Explore the various career opportunities available through majoring in economics.
-- **Objective Three**: Discuss the skills and knowledge gained through an economics degree and how they ar aplicable across many platforms and industries.
+- **Objective Three**: Discuss the skills and knowledge gained through an economics degree and how they are applicable across many platforms and industries.
 
 ## 📚 Sample Questions
 
@@ -56,8 +56,7 @@ Explore the vast opportunities awaiting economics majors as we uncover the revel
 
 ## 🎉 Show Description
 
-In this episode we delve into the world of economics and why it's a compelling field of study for anyone looking to understand the intricacies of decision-making, resource allocation, and the functioning of markets. Our guest expert will shed a light on the importance of economics inshaping policies, influencing businesses, and guiding individual choices. We'll explore the myriad of career opportunities available to economics graduates, ranging from finance and consulting to public policy and data analysis. Moreover, we'll discuss how studying economics equips students with critical thinking skills, analytical prowess, and a deep understanding of human behavior, making them valuable assets in any professional setting.
-
+In this episode, we delve into the world of economics and why it's a compelling field of study for anyone looking to understand the intricacies of decision-making, resource allocation, and the functioning of markets. Our guest expert will shed light on the importance of economics in shaping policies, influencing businesses, and guiding individual choices. We'll explore the myriad of career opportunities available to economics graduates, ranging from finance and consulting to public policy and data analysis. Moreover, we'll discuss how studying economics equips students with critical thinking skills, analytical prowess, and a deep understanding of human behavior, making them valuable assets in any professional setting.
 
 ## 📢 Call to Action
 
